@@ -167,7 +167,7 @@ int main() {
     vector<string> nomes{
         "ALBERTO",
         "ARMANDO",
-        "AUGUSTO",
+        "ALBERTO",
         "ARNALDO",
         "ANTÓNIO",
         "ARNALDO",
