@@ -9,3 +9,5 @@ Alguns dos exemplos principais:
 
 - `ConversorCambial.cpp` : Programa para converter de EUR para USD
 - `Vectores1.cpp`: como utilizar `std::vector`
+- `Strings1.cpp`: como utilizar `std::string`
+
