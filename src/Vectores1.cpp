@@ -172,7 +172,7 @@ int main() {
         "ANTÓNIO",
         "ARNALDO",
         "AVELINO",
-    }
+    };
     cout << "Antes de remover ARNALDO" << endl;
     print_vector(nomes);
     cout << endl;
